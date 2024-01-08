@@ -11,6 +11,11 @@ public class Role {
 
   
 //constructor and getters and setters
+  
+  
+   public Role() {
+
+    }
    public Role(RoleName name) {
 		super();
 		this.name = name;
